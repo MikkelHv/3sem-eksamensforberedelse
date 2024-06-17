@@ -1,0 +1,14 @@
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\bin\Debug\net7.0\modul-2-LINQ-HOF.exe
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\bin\Debug\net7.0\modul-2-LINQ-HOF.deps.json
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\bin\Debug\net7.0\modul-2-LINQ-HOF.runtimeconfig.json
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\bin\Debug\net7.0\modul-2-LINQ-HOF.dll
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\bin\Debug\net7.0\modul-2-LINQ-HOF.pdb
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\obj\Debug\net7.0\modul-2-LINQ-HOF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\obj\Debug\net7.0\modul-2-LINQ-HOF.AssemblyInfoInputs.cache
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\obj\Debug\net7.0\modul-2-LINQ-HOF.AssemblyInfo.cs
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\obj\Debug\net7.0\modul-2-LINQ-HOF.csproj.CoreCompileInputs.cache
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\obj\Debug\net7.0\modul-2-LINQ-HOF.dll
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\obj\Debug\net7.0\refint\modul-2-LINQ-HOF.dll
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\obj\Debug\net7.0\modul-2-LINQ-HOF.pdb
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\obj\Debug\net7.0\modul-2-LINQ-HOF.genruntimeconfig.cache
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-2-LINQ-HOF\obj\Debug\net7.0\ref\modul-2-LINQ-HOF.dll

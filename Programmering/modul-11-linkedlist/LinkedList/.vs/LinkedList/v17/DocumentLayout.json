@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-11-linkedlist\\LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB357BF-C131-4CA1-A5AC-A209B9E78ACD}|list.csproj|c:\\users\\mikkel\\desktop\\it-arkitekt\\3sem eksamensforberedelse\\programmering\\modul-11-linkedlist\\linkedlist\\userlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB357BF-C131-4CA1-A5AC-A209B9E78ACD}|list.csproj|solutionrelative:userlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB357BF-C131-4CA1-A5AC-A209B9E78ACD}|list.csproj|c:\\users\\mikkel\\desktop\\it-arkitekt\\3sem eksamensforberedelse\\programmering\\modul-11-linkedlist\\linkedlist\\userlinkedlist.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB357BF-C131-4CA1-A5AC-A209B9E78ACD}|list.csproj|solutionrelative:userlinkedlist.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB357BF-C131-4CA1-A5AC-A209B9E78ACD}|list.csproj|c:\\users\\mikkel\\desktop\\it-arkitekt\\3sem eksamensforberedelse\\programmering\\modul-11-linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB357BF-C131-4CA1-A5AC-A209B9E78ACD}|list.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 522,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-11-linkedlist\\LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-11-linkedlist\\LinkedList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:37:22.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLinkedList.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-11-linkedlist\\LinkedList\\UserLinkedList.Tests.cs",
+              "RelativeDocumentMoniker": "UserLinkedList.Tests.cs",
+              "ToolTip": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-11-linkedlist\\LinkedList\\UserLinkedList.Tests.cs",
+              "RelativeToolTip": "UserLinkedList.Tests.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswJcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:26:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-11-linkedlist\\LinkedList\\UserLinkedList.cs",
+              "RelativeDocumentMoniker": "UserLinkedList.cs",
+              "ToolTip": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-11-linkedlist\\LinkedList\\UserLinkedList.cs",
+              "RelativeToolTip": "UserLinkedList.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAADwv5oAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:01:43.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

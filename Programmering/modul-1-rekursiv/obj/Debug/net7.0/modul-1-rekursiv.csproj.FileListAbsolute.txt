@@ -1,0 +1,14 @@
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\obj\Debug\net7.0\modul-1-rekursiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\obj\Debug\net7.0\modul-1-rekursiv.AssemblyInfoInputs.cache
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\obj\Debug\net7.0\modul-1-rekursiv.AssemblyInfo.cs
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\obj\Debug\net7.0\modul-1-rekursiv.csproj.CoreCompileInputs.cache
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\bin\Debug\net7.0\modul-1-rekursiv.exe
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\bin\Debug\net7.0\modul-1-rekursiv.deps.json
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\bin\Debug\net7.0\modul-1-rekursiv.runtimeconfig.json
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\bin\Debug\net7.0\modul-1-rekursiv.dll
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\bin\Debug\net7.0\modul-1-rekursiv.pdb
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\obj\Debug\net7.0\modul-1-rekursiv.dll
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\obj\Debug\net7.0\refint\modul-1-rekursiv.dll
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\obj\Debug\net7.0\modul-1-rekursiv.pdb
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\obj\Debug\net7.0\modul-1-rekursiv.genruntimeconfig.cache
+C:\Users\Mikkel\Desktop\IT-Arkitekt\3sem eksamensforberedelse\Programmering\modul-1-rekursiv\obj\Debug\net7.0\ref\modul-1-rekursiv.dll

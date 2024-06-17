@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "modul-2-LINQ-HOF/1.0.0": {
+        "runtime": {
+          "modul-2-LINQ-HOF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "modul-2-LINQ-HOF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

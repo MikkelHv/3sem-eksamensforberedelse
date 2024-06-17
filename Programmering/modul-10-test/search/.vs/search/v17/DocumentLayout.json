@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-10-test\\search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DA12E8-0647-4B3B-B7E7-641EA01E556B}|search.csproj|c:\\users\\mikkel\\desktop\\it-arkitekt\\3sem eksamensforberedelse\\programmering\\modul-10-test\\search\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DA12E8-0647-4B3B-B7E7-641EA01E556B}|search.csproj|solutionrelative:search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DA12E8-0647-4B3B-B7E7-641EA01E556B}|search.csproj|c:\\users\\mikkel\\desktop\\it-arkitekt\\3sem eksamensforberedelse\\programmering\\modul-10-test\\search\\search.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DA12E8-0647-4B3B-B7E7-641EA01E556B}|search.csproj|solutionrelative:search.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 522,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-10-test\\search\\Search.cs",
+              "RelativeDocumentMoniker": "Search.cs",
+              "ToolTip": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-10-test\\search\\Search.cs",
+              "RelativeToolTip": "Search.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:57:25.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-10-test\\search\\Search.Tests.cs",
+              "RelativeDocumentMoniker": "Search.Tests.cs",
+              "ToolTip": "C:\\Users\\Mikkel\\Desktop\\IT-Arkitekt\\3sem eksamensforberedelse\\Programmering\\modul-10-test\\search\\Search.Tests.cs",
+              "RelativeToolTip": "Search.Tests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:57:27.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
